@@ -5,7 +5,7 @@ name: Node.js CI
 
 on:
   push:
-    branches: [ "main", "paso_2" ]
+    branches: [ "main", "paso_2", "paso_3" ]
   pull_request:
     branches: [ "main" ]
 
@@ -30,3 +30,4 @@ jobs:
 
     - run: npm ci
     - run: npm run build --if-present
+    - run: npm test
