@@ -4,7 +4,7 @@ Caso practico, para agregar github action como CI a nuestro proyecto.
 Cada rama tiene un paso asociado, desde la 1 ... 4
 
 Basta con hacer checkout a la rama, luego de clonar el repositorio
-`git checkout`
+`git checkout paso_*`
 
 ### Paso 1 (paso_1)
 - Creación de proyecto
