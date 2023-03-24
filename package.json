@@ -1,0 +1,22 @@
+{
+  "name": "working-with-github-action",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanfretes/working-with-github-action.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivanfretes/working-with-github-action/issues"
+  },
+  "homepage": "https://github.com/ivanfretes/working-with-github-action#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
